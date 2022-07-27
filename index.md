@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to My journey to full stack developer 
 
-You can use the [editor on GitHub](https://github.com/coding-corps/full_stack/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+```
+what is full stack ?
+In the world of software programming, it helps to have someone on the team who is something of a jack of all trades.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A full stack web developer is a person who can develop both client facing and server side software.
+Full Stack Developers have to have some skills in a wide variety of coding niches, 
+from databases to graphic design and UI/UX management in order to do their job well.
 
-### Markdown
+The modern full stack developer is an experienced generalist who can build a minimal viable product
+— i.e., an application with enough functionality to please early customers and spark feedback for continued development 
+— on their own.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Week 1:
+## Front-End Web UI Frameworks and Tools
 
-### Jekyll Themes
+```markdown
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coding-corps/full_stack/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+  - Front-End Web UI Frameworks and Tools: Bootstrap 4:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+  - Full Stack Web Development: The Big Picture:
+
+  - Setting up Your Development Environment: Git and Node: 
+
+  - Introduction to Bootstrap:
+
+  - Responsive Design and Bootstrap Grid System: 
+```
+
+
+  
