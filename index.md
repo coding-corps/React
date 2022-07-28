@@ -18,7 +18,8 @@ The modern full stack developer is an experienced generalist who can build a min
 
 ## front-end vs back-end vs client-side vs server-side
 
-```Client side and server side are web development terms that describe where application code runs. Web developers will also refer to this distinction as the frontend vs. the backend, although client-side/server-side and frontend/backend aren't quite the same.
+```
+Client side and server side are web development terms that describe where application code runs. Web developers will also refer to this distinction as the frontend vs. the backend, although client-side/server-side and frontend/backend aren't quite the same.
 
 In web development, 'client side' refers to everything in a web application that is displayed or takes place on the client (end user device). This includes what the user sees, such as text, images, and the rest of the UI, along with any actions that an application performs within the user's browser.
 
